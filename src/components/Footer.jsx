@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="flex w-full items-center justify-center gap-6 bg-[#D5D4D8] py-5 text-3xl text-[#918E9B]">
+    <footer className="flex w-full items-center justify-center gap-6 bg-[#D5D4D8] py-3 text-3xl text-[#918E9B]">
       <a
         href="https://linkedin.com/in/mohieb-frontend-developer"
         target="_blank">
