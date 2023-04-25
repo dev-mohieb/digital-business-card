@@ -8,7 +8,7 @@ export default function Header() {
         alt="mohieb-logo"
         width={320}
         height={192}
-        className="aspect-[5/3] bg-gray-900 object-cover"
+        className="aspect-[5/3] bg-gray-900 object-cover w-full"
       />
       <section className="flex flex-col items-center gap-4 bg-gray-100 py-5">
         <article className="w-[80%]">
