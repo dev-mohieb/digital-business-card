@@ -2,7 +2,7 @@ import pfp from "../assets/mohieb-pfp.png";
 
 export default function Header() {
   return (
-    <header className="flex flex-col">
+    <header className="flex flex-col w-full">
       <img
         src={pfp}
         alt="mohieb-logo"
